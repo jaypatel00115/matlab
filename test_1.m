@@ -22,15 +22,6 @@ for ii = 1:n
 end
 
 
-%% Second reflection
-
-
-
-%% Final reach to base plate
-
-
-
-%% Get final solar fluw at base plate
 
 
 
